@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "pysymba_dev"
+  site-url: "https://mgm79.github.io/pysymba_dev"
+  description: "Development repo for pysysmba"
+  repo-branch: master
+  repo-url: "https://github.com/mgm79/pysymba_dev"
